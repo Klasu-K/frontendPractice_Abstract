@@ -1,0 +1,25 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+:root {
+  font-family: sans-serif;
+  --c-black: #000000;
+  --c-white: #fff;
+  --c-blue: #4C5FD5;
+  --c-gray: #dadbf1;
+}
