@@ -1,11 +1,11 @@
 <script>
   import HelpSearchSection from "./HelpSearchSection/HelpSearchSection.svelte";
-  import OverviewSection from "./OverviewSection/OverviewSection.svelte";
+  import IntroductionSection from "./IntroductionSection/IntroductionSection.svelte";
 </script>
 
 <main class="main">
   <HelpSearchSection/>
-  <OverviewSection/>
+  <IntroductionSection/>
 </main>
 
 <style>
