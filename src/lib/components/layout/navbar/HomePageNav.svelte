@@ -1,5 +1,5 @@
 <script>
-  import CompanyLogo from "./CompanyLogo.svelte";
+  import CompanyLogo from "../../shared/CompanyLogo.svelte";
 </script>
 
 <div class="main-item">
