@@ -19,6 +19,7 @@ li {
 :root {
   font-family: sans-serif;
   --c-black: #000000;
+  --c-light-black: rgb(23, 23, 23);
   --c-white: #fff;
   --c-blue: #4C5FD5;
   --c-gray: #dadbf1;
